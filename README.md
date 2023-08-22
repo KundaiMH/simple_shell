@@ -1,0 +1,1 @@
+This is the infamous Simple Shell Project. It is the pinacle of C Programming. The rite of passage from a C newbie to a at least a seasoned novice. 
